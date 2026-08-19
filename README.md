@@ -87,7 +87,10 @@
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=maria.v.barizon@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario-aqui)
 
+**`🌟 Para mais informações confira meu portifólio: https://mavi23y.github.io/Portifolio/`**
+
 ---
+
 
 
 
